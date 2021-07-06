@@ -1,6 +1,6 @@
 ## korn-service
 
-模拟炒币（现货）、数字货币实时行情 & 资讯、最新空投信息等。基于 eggjs 构建。
+模拟炒币（现货）、数字货币实时行情 & 资讯、最新空投信息等。基于 `eggjs` 构建。
 
 > 该项目是 [korn_wallet](https://github.com/GG4mida/korn_wallet) 对应的后台服务项目。
 
@@ -27,17 +27,17 @@
 
 #### mysql
 
-/config/config.default.js，修改：config.sequelize.password 配置节。
+`/config/config.default.js`，修改：`config.sequelize.password` 配置节。
 
 #### 汇率获取
 
-前往阿里去市场，购买汇率服务：https://market.aliyun.com/products/57000002/cmapi011221.html
-然后修改 /config/user.default.js 相关 code
+- 前往阿里去市场，购买汇率服务：https://market.aliyun.com/products/57000002/cmapi011221.html
+- 修改 `/config/user.default.js` 相关 code
 
 #### 区块链资讯
 
-前往：https://www.coindog.com/，申请接入权限
-然后修改 /config/user.default.js 相关 accessKey & secretKey
+- 申请 coindog 接入权限：https://www.coindog.com
+- 修改 `/config/user.default.js` 相关 `accessKey & secretKey`
 
 ### 运行步骤
 
@@ -49,7 +49,7 @@
 ## TODO
 
 - [ ] 部署线上服务
-- [ ] 简化部署流程，弄一个 docker-compose
+- [ ] 简化部署流程，弄一个 `docker-compose`
 
 ## 联系
 
