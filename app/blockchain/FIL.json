@@ -1,0 +1,11 @@
+{
+    "name": "Filecoin",
+    "website": "https://filecoin.io",
+    "description": "Filecoin是一个基于IPFS的去中心化存储网络，是IPFS上唯一的激励层，也是一个基于区块链技术发行的其官方的唯一代币，代币符号FIL。Filecoin是将云存储转变为算法市场的去中心化存储网络，它包括区块链和本机加密货币（FIL）。在FIlecoin网络中的矿工可以通过为客户提供存储和检索服务来获取FIL，相反，客户可以通过花费FIL雇佣矿工来存储或分发数据。Filecoin通过经济激励的机制来促进IPFS的发展，同时Filecoin网络也需要IPFS为其市场的发展提供生态支持，Filecoin和IPFS是一对互补协议，共同解决了数据的传输、定位和存储，其开发团队来自同一个公司——协议实验室（Protocol Labs）。\nIPFS于2015年5月上线，已稳定运行多年。截至目前，已有上百亿数据在上面存储，上百个应用基于IPFS开发。北京时间2020年10月15日 22:45分，分布式储存网络 Filecoin （FIL） 已经达到原定启动主网的区块高度 148,888。",
+    "explorer": "https://filscan.io/",
+    "research": "https://research.binance.com/en/projects/filecoin",
+    "symbol": "FIL",
+    "type": "COIN",
+    "decimals": 18,
+    "status": "active"
+}

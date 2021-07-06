@@ -1,0 +1,12 @@
+{
+    "name": "Chainlink Token",
+    "website": "https://chain.link",
+    "description": "ChainLink 是一个去中心化预言机，向智能合约提供链外数据，首先通过多个节点来提交数据到其链上合约，其合约会把这些链下数据储存下来，然后再由其他智能合约来访问它的合约接口并获取各自想要数据。\nDeFi 生态兴起后，智能合约对通证链外价格的需求非常强烈，ChainLink 在这个过程中很好的满足了这部分需求并与诸多 DeFi 项目达成了合作关系，诸如 Synthetix、Aave、Kyber 等头部的 DeFi 项目目前都在使用 ChainLink 所提供的价格预言机服务。ChainLink 在预言机方面是目前 DeFi 新项目的首选。",
+    "explorer": "https://bscscan.com/token/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+    "research": "https://research.binance.com/en/projects/chainlink",
+    "type": "BEP20",
+    "symbol": "LINK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD"
+}

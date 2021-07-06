@@ -1,0 +1,25 @@
+{
+    "name": "Polkadot",
+    "website": "https://polkadot.network",
+    "source_code": "https://github.com/w3f",
+    "white_paper": "https://polkadot.network/PolkaDotPaper.pdf",
+    "description": "DOT币又叫波卡币，英文全称是Polkadot，是Polkadot平台的原生代币，由前以太坊创始人及橙皮书作者Gavin Wood博士及其团队所创。它的主要作用是：管理平台、运营网络、通过粘合 DOT 创建区块链、支付信息传送费用等。\n2020年8月22日，Polkadot（波卡）成功进行了1:100的代币拆分，Polkadot拆分前代币总量只有1000万，拆分后代币数量变为10亿枚，变为原来的100倍而它的价格也将降低100倍。\n而Polkadot 是一个由多条区块链，异构组成的区块链集合，它融合了多种不同公链的区块链技术，它的作用是将现在各自独立的区块链连接起来，通过 Polkadot不同区块链之间可以进行通信和数据的传递。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/polkadotnetwork",
+            "handle": "polkadotnetwork"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/dot",
+            "handle": "dot"
+        }
+    ],
+    "explorer": "http://polkascan.io",
+    "research": "https://research.binance.com/en/projects/polkadot",
+    "symbol": "DOT",
+    "type": "COIN",
+    "decimals": 10,
+    "status": "active"
+}

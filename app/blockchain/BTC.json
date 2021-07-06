@@ -1,0 +1,25 @@
+{
+    "name": "Bitcoin",
+    "website": "https://bitcoin.org",
+    "source_code": "https://github.com/bitcoin",
+    "white_paper": "https://bitcoin.org/bitcoin.pdf",
+    "description": "比特币（Bitcoin，简称BTC）是目前使用最为广泛的一种数字货币，被投资者称为“数字黄金”，它诞生于2009年1月3日，是一种点对点（P2P）传输的数字加密货币，总量2100万枚。比特币网络每10分钟释放出一定数量币，预计在2140年达到极限。\n比特币的概念最初由中本聪在2008年提出，是根据中本聪的思路设计发布的开源数字货币系统。它使用点对点技术在没有中央机构或银行的情况下运作，它的设计是公开的，没有人拥有或控制比特币，每个人都可以参与。\n与大多数货币不同，比特币不依靠特定货币机构发行，它依据特定算法，通过大量的计算产生，比特币经济使用整个p2p网络中众多节点构成的分布式数据库来确认并记录所有的交易行为，并使用密码学的设计来确保货币流通各个环节安全性。\n比特币最大的特点是，其总数量非常有限，具有极强的稀缺性。目前，这种崭新的虚拟货币不受任何政府、任何银行控制。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Bitcoin",
+            "handle": "Bitcoin"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/Bitcoin",
+            "handle": "Bitcoin"
+        }
+    ],
+    "explorer": "https://blockchain.info",
+    "research": "https://research.binance.com/en/projects/bitcoin",
+    "symbol": "BTC",
+    "type": "COIN",
+    "decimals": 8,
+    "status": "active"
+}

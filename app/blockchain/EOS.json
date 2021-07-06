@@ -1,0 +1,25 @@
+{
+    "name": "EOS",
+    "website": "https://eos.io",
+    "source_code": "https://github.com/eosio",
+    "white_paper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
+    "description": "EOS (Enterprise Operation System)是由 Block.one公司主导开发的一种全新的基于区块链的智能合约平台，旨在为高性能分布式应用提供底层区块链平台服务。EOS 项目的目标是构建一个类似操作系统的支撑分布式应用程序的区块链架构。该架构可以提供账户，身份认证，数据库，异步通信以及可在数以万计的 CPU/GPU群集上进行程序调度和并行运算。EOS最终可以支持每秒执行数百万个交易，且普通用户执行智能合约无需支付使用费用。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/block_one_",
+            "handle": "block_one_"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/EOS",
+            "handle": "EOS"
+        }
+    ],
+    "explorer": "https://bloks.io/",
+    "research": "https://research.binance.com/en/projects/eos",
+    "symbol": "EOS",
+    "type": "COIN",
+    "decimals": 4,
+    "status": "active"
+}

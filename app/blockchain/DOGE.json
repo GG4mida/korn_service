@@ -1,0 +1,25 @@
+{
+    "name": "Dogecoin",
+    "website": "http://dogecoin.com",
+    "source_code": "https://github.com/dogecoin/dogecoin",
+    "white_paper": "https://github.com/dogecoin/dogecoin/blob/master/README.md",
+    "description": "Dogecoin，有人称作'狗狗币/狗币'，诞生于2013年12月8日，基于Scrypt算法，是国际上用户数仅次于比特币的第二大虚拟货币 ，狗币系统上线后，由于reddit的助力(这网站上面的Doge内容泛滥得可怕)，流量呈现爆发式发展，不过两周的时间，狗狗币已经铺开了专门的博客、论坛，截止2015年6月9日，市值达到1亿。由于没有预挖，狗币分发公平，慈善、打赏文化深得人心，用户发展惊人迅速。\n狗币自有一套策略，它并不走比特币的赚钱路线，而是很好地利用了美国的“小费文化”。这种被视作是对服务者的捐赠或跪拜的谦卑姿态，也在互联网上广泛使用。比起昂贵的比特币，狗币门槛更低，而且更“萌”，系统上线一周后，狗币已经成为美国互联网中第二受欢迎的“小费电子货币”。狗币很特别，基于网络草根文化而起，由于气质可爱搞笑而一炮而红。在日益膨胀的电子货币市场当中，狗币算是定位到一个利基市场。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/dogecoin",
+            "handle": "dogecoin"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/dogecoin",
+            "handle": "dogecoin"
+        }
+    ],
+    "explorer": "https://blockchair.com/dogecoin",
+    "research": "https://research.binance.com/en/projects/dogecoin",
+    "symbol": "DOGE",
+    "type": "COIN",
+    "decimals": 8,
+    "status": "active"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Litecoin",
+    "website": "https://litecoin.org/",
+    "source_code": "https://github.com/litecoin-project/litecoin",
+    "white_paper": "https://www.allcryptowhitepapers.com/litecoin-whitepaper/",
+    "description": "Litecoin（ 莱特币）是一种基于“点对点”(peer-to-peer)技术的网络货币，它可以帮助用户即时付款给世界上任何一个人。Litecoin受到了比特币（BTC）的启发，在技术上与比特币具有相同的实现原理，它的创造和转让基于一种开源的加密协议，不受到任何中央机构的管理。\nLitecoin（ 莱特币）基于比特币(Bitcoin)协议，但又有不同于比特币的地方：通过消费级的硬件，它可以高效地“挖矿”。Litecoin能够提供快速的交易确认（平均2.5分钟），因为它使用了硬内存以及scrypt(一种加密算法)的挖矿工作量证明算法，面向大多数人则使用普通计算机及图形处理器(GPU)。\nLitecoin的设计目的之一是提供一种挖掘算法，使它能够在挖掘比特币的机器上同时运行。为挖掘比特币而设计的专用集成电路(ASIC)逐渐兴起的同时，Litecoin也紧跟着技术演变。但在Litecoin货币被广泛应用之前，不太可能会出现专门为Litecoin设计的专用集成电路(ASIC)。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/LitecoinProject",
+            "handle": "LitecoinProject"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/litecoin",
+            "handle": "litecoin"
+        }
+    ],
+    "explorer": "https://blockchair.com/litecoin",
+    "research": "https://research.binance.com/en/projects/litecoin",
+    "symbol": "LTC",
+    "type": "COIN",
+    "decimals": 8,
+    "status": "active"
+}

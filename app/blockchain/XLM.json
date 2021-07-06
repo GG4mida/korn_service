@@ -1,0 +1,25 @@
+{
+    "name": "Stellar",
+    "website": "https://stellar.org",
+    "source_code": "https://github.com/stellar",
+    "white_paper": "https://www.stellar.org/papers/stellar-consensus-protocol.pdf",
+    "description": "Stellar是一个用于货币支付的开源平台，它使创建，发送和交易各种形式的货币（美元，比索，比特币以及几乎所有东西）的数字表示形式成为可能。它的设计使全球所有金融系统都可以在单个网络上协同工作。\nStellar没有所有者，如果有的话，它是公众所有的。它运行在分散的，开放的网络上，每天处理数百万笔交易。像比特币和以太坊一样，Stellar依靠区块链来保持网络同步，但是最终用户的体验更像现金，它比典型的基于区块链的系统更快，更便宜，更节能。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/StellarOrg",
+            "handle": "StellarOrg"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/stellar",
+            "handle": "stellar"
+        }
+    ],
+    "explorer": "https://dashboard.stellar.org/",
+    "research": "https://research.binance.com/en/projects/stellar-lumens",
+    "symbol": "XLM",
+    "type": "COIN",
+    "decimals": 7,
+    "status": "active"
+}

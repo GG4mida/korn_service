@@ -1,0 +1,27 @@
+{
+    "name": "Elrond eGold",
+    "website": "https://elrond.com",
+    "description": "EGLD是Elrond的本地代币，用于支付网络费用、下注和奖励验证器。而Elrond则是一个区块链协议，它旨在通过使用分片来达成极快的交易速度。该项目自称是新互联网的技术生态系统，这个生态系统涵盖了金融科技、分散金融和物联网等领域。据报道，Elrond的智能合约执行平台每秒可处理15000笔交易，延迟6秒，交易成本为0.001美元。",
+    "explorer": "https://bscscan.com/token/0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+    "source_code": "https://github.com/ElrondNetwork",
+    "research": "https://messari.io/asset/elrond/profile",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/ElrondNetwork"
+        },
+        {
+            "name": "Blog",
+            "url": "https://elrond.com/blog/"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/ElrondNetwork"
+        }
+    ],
+    "type": "BEP20",
+    "symbol": "EGLD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe"
+}

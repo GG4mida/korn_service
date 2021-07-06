@@ -1,0 +1,25 @@
+{
+    "name": "Cardano",
+    "website": "https://cardano.org",
+    "source_code": "https://github.com/input-output-hk/cardano-sl/",
+    "white_paper": "https://www.cardano.org/en/academic-papers/",
+    "description": "Cardano是一个开创性的权益证明区块链网络，正在发展为具有多资产分类记账和可验证智能合约的去中心化应用（DApp）开发平台。Cardano采用了严格的高可信度形式化开发方法来打造，逐步实现了实际应用所需的可扩展性，互操作性和可持续性，有望成为支撑未来经济发展的规模任务关键型DApp的首选平台。\nCardano以同行评审的学术研究为基础，体现了开放性和透明性精神。支持Cardano的所有研究和技术规范都是公开发布的，并且所有Cardano开发活动都向公众开放。它由一支全球专家团队设计，这些专家是各个领域的领导者，并由IOHK及其合作伙伴共同开发，IOHK负责开发技术，Cardano基金会负责监督开发和推广，而Emurgo则负责推动商业应用。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/cardano",
+            "handle": "cardano"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/cardano",
+            "handle": "cardano"
+        }
+    ],
+    "explorer": "https://cardanoexplorer.com/",
+    "research": "https://research.binance.com/en/projects/cardano",
+    "symbol": "ADA",
+    "type": "COIN",
+    "decimals": 6,
+    "status": "active"
+}

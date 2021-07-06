@@ -1,0 +1,12 @@
+{
+    "name": "Uniswap",
+    "website": "https://uniswap.org",
+    "description": "UNI是以太坊区块链上的ERC-20治理代币，代币持有者对Uniswap协议治理，UNI代币社区资金，协议费用转换的控制(如果激活，则0.05％的费用将由UNI代币持有者收取)，eth ENS，Uniswap默认代币列表(tokens.uniswap.eth)和SOCKS流动性代币等做出决断。\nUniswap则是基于以太坊区块链构建的去中心化交易协议，可提供ERC-20代币的非托管交易。它的第一个版本(Uniswap v1)自2018年11月开始运行(在DevCon 4上发布)，而第二个版本(Uniswap v2)于2020年5月发布。在Uniswap中，用户可以交换代币，将代币添加到池中以赚取费用或添加代币交易对，而无需信任任何中央中介。由于所有交互都是直接在链上进行的，因此要花费交易手续费。\nUniswap建立在称为自动做市商(AMM)的独特系统上。其核心是由两个ERC-20代币组成的池来创建流动性。作为对流动性条款的奖励，当事方(流动性提供者或LP)收取每当个人交换代币时产生的交换费。在Uniswap v2中，交换费用设置为名义交易量的0.30％。收取的费用分配到池的储备金中。开启协议开关后，UNI持有者将收取每次交易手续费的0.05％，而流动性提供者的奖励将降低至0.25％。",
+    "explorer": "https://etherscan.io/token/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "research": "https://research.binance.com/en/projects/uniswap",
+    "type": "ERC20",
+    "symbol": "UNI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ethereum Classic",
+    "website": "https://ethereumclassic.org/",
+    "source_code": "https://github.com/ethereumclassic/",
+    "white_paper": "https://whitepaperdatabase.com/ethereum-classic-etc-whitepaper/",
+    "description": "ETC（Ethereum Classic）是以太坊在1,920,000个块后硬分叉出的分叉币种，功能和以太坊极为类似。ETC秉承去中心化理念，支持区块链保证的共识机制。ETC坚信，区块链一旦开始运行，它的发展方向就不被任何中心团队所左右，而是按照参与整个网络人员的共识和全网算力的共识所决定。\n2016年7月份进行的以太坊区块链硬分叉旨在将被黑客盗窃的The DAO资金转移到一个由投资者掌控的账户，并让旧的交易记录被历史遗忘。大多数以太坊开发者都参与了这次逆转，交易所、创业公司和该生态系统中的其他成员也参与了。几天之后，该项目恢复了常态。但是并非所有人都想将旧的交易记录忘记。于是一小部分矿工继续使用原来的区块链，以此作为一种抗议，他们将硬分叉描述为是对The DAO这个废弃项目的抽资行为。于是Ethereum Classic(ETC)就诞生了。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/eth_classic",
+            "handle": "eth_classic"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/EthereumClassic",
+            "handle": "EthereumClassic"
+        }
+    ],
+    "explorer": "https://blockscout.com/etc/mainnet/",
+    "research": "https://research.binance.com/en/projects/ethereum-classic",
+    "symbol": "ETC",
+    "type": "COIN",
+    "decimals": 18,
+    "status": "active"
+}

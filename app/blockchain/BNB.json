@@ -1,0 +1,28 @@
+{
+    "name": "BNB coin",
+    "website": "https://binance.org/",
+    "source_code": "https://github.com/binance-chain/",
+    "white_paper": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf",
+    "description": "Binance Coin是由币安发行的代币，简称BNB，是基于以太坊Ethereum的去中心化的区块链数字资产。发行总量恒定为2亿个，每个季度币安会根据平台当季交易量对BNB进行销毁，销毁记录将会第一时间公布，用户可通过区块链浏览器查询，确保公开透明，直至销毁到总量为1亿个BNB币为止。\nBNB作为Binance生态系统和去中心化交易所的gas，已经应用到了多个场景中，如在binance中可以使用BNB抵扣交易手续费，最高可获得50%的折扣；在Monaco Visa及APP应用中可以使用BNB支付；在Uplive直播平台可以使用BNB购买虚拟礼物等。目前BNB排名稳居全球TOP20，最佳排名为全球TOP10，受到全球180余国家和地区区块链爱好者的支持。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/binance_dex",
+            "handle": "binance_dex"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/BinanceExchange",
+            "handle": "BinanceExchange"
+        }
+    ],
+    "explorer": "https://explorer.binance.org/",
+    "research": "https://research.binance.com/en/projects/bnb",
+    "symbol": "BNB",
+    "type": "COIN",
+    "decimals": 8,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "extends": "eslint-config-egg",
+  "rules": {
+    "jsdoc/check-param-names": 0,
+    "quotes": [
+      2,
+      "double"
+    ],
+    "semi": [
+      2,
+      "always"
+    ],
+    "arrow-parens": [
+      2,
+      "always"
+    ],
+    "array-bracket-spacing": 0
+  }
+}

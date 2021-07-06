@@ -1,0 +1,28 @@
+{
+    "name": "TRON",
+    "website": "https://tron.network/",
+    "source_code": "https://github.com/tronprotocol",
+    "white_paper": "https://developers.tron.network/docs",
+    "description": "TRX是一种基于TRON基金会发布的TRON协议的主网代币，是TRON区块链上的基本账户单位，所有其他代币的价值都来自TRON。对于所有基于TRC的代币，TRX也是一种天然的中间货币。TRX将整个TRON生态系统与丰富的应用程序场景相连接，这些应用程序可为链上的交易和应用程序提供动力。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Tronfoundation",
+            "handle": "Tronfoundation"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/Tronix",
+            "handle": "Tronix"
+        }
+    ],
+    "explorer": "https://tronscan.io/#/",
+    "research": "https://research.binance.com/en/projects/tron",
+    "symbol": "TRX",
+    "type": "COIN",
+    "decimals": 6,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ]
+}

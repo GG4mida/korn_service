@@ -1,0 +1,25 @@
+{
+    "name": "Ethereum",
+    "website": "https://ethereum.org/",
+    "source_code": "https://github.com/ethereum",
+    "white_paper": "https://github.com/ethereum/wiki/wiki/White-Paper",
+    "description": "ETH(以太币）是以太坊（Ethereum）的代币，在以太坊上充当支付交易手续费和运算服务费的媒介（GAS）。与BTC类似，这种加密货币可以用来与其它加密货币或其它法币进行交易，是除了比特币以外最具价值的加密数字货币之一。发行于2014年7月24日，众筹时首次发行总量大约在7200万枚ETH。\nEthereum(以太坊)是一个用于分布式应用程序的全球性开源平台，是为了解决比特币网络所存在的问题应运而生的区块链系统，它为开发者提供在区块链上搭建和发布应用的平台。以太坊可以用来编程、分散、担保和交易任何事物包括投票、域名、金融交易所，众筹、公司管理、合同和大部分的协议、知识产权，智能资产等。",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/ethereum",
+            "handle": "ethereum"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/r/ethereum",
+            "handle": "ethereum"
+        }
+    ],
+    "explorer": "https://etherscan.io/",
+    "research": "https://research.binance.com/en/projects/ethereum",
+    "symbol": "ETH",
+    "type": "COIN",
+    "decimals": 18,
+    "status": "active"
+}
